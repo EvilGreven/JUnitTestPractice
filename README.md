@@ -1,4 +1,3 @@
 JUnitTestPractice
 =================
-Derp
-Waugh
+Alrighty, SSH from Eclipse is working.
