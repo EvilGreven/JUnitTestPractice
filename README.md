@@ -1,3 +1,3 @@
 JUnitTestPractice
 =================
-Alrighty, SSH from Eclipse is working.
+Practicing JUnit, Git version control, and TDD.
